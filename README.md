@@ -43,13 +43,14 @@ __________________________________________________________________
 **Glossário de Seletores e Propriedades CSS:**
 
 **Universal Selector (*):**
-        **margin:** Define a margem ao redor do elemento.
 
-        **padding:** Define o preenchimento dentro do elemento.
+<code>margin:</code> Define a margem ao redor do elemento.
 
-        **border:** Define a borda ao redor do elemento.
-        
-        **box-sizing:** Define o modelo de caixa, incluindo a borda no cálculo do tamanho.
+<code>padding:</code> Define o preenchimento dentro do elemento.
+
+<code>border:</code> Define a borda ao redor do elemento.
+
+<code>box-sizing:</code> Define o modelo de caixa, incluindo a borda no cálculo do tamanho.
 
 **Elementos Gerais:**
         **position:** Define o método de posicionamento do elemento.
