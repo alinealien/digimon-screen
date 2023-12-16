@@ -44,8 +44,11 @@ __________________________________________________________________
 
 **Universal Selector (*):**
         **margin:** Define a margem ao redor do elemento.
+
         **padding:** Define o preenchimento dentro do elemento.
+
         **border:** Define a borda ao redor do elemento.
+        
         **box-sizing:** Define o modelo de caixa, incluindo a borda no cálculo do tamanho.
 
 **Elementos Gerais:**
