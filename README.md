@@ -2,7 +2,7 @@
 
 Projeto desenvolvido utilizando html, css e javascript. Todo conteúdo é para fins educacionais.
 
-[Imagem](https://i.imgur.com/sZstEdN.jpg)
+![Imagem](https://i.imgur.com/sZstEdN.jpg)
 
 ______________________________________________________________________________________
 
