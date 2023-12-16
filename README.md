@@ -17,7 +17,7 @@ O Box Model é um conceito fundamental no design e layout de páginas web. Ele r
 O HTML desenvolvido define uma estrutura básica de página web com um cartão de apresentação de Digimon, incluindo imagem, nome e informações. Aqui o Box Model é implicitamente aplicado para controlar o layout e espaçamento dos elementos.
 ___________________________________________________________________
 
-### Estrutura de CSS
+### Estrutura CSS
 
 Criamos 4 arquivos css para a estilização do nosso projeto, sendo:
 
@@ -52,7 +52,9 @@ __________________________________________________________________
 
 <code>box-sizing:</code> Define o modelo de caixa, incluindo a borda no cálculo do tamanho.
 
+
 ### **Elementos Gerais:**
+
 <code>position:</code> Define o método de posicionamento do elemento.
 
 <code>max-width:</code> Define a largura máxima do elemento.
@@ -71,7 +73,9 @@ __________________________________________________________________
 
 <code>transform:</code> Aplica uma transformação 3D ao elemento.
 
+
 ### **Flexbox:**
+
 <code>display:</code> Define o método de exibição do elemento como flexível.
 
 <code>justify-content:</code> Alinha o conteúdo horizontalmente.
@@ -80,13 +84,19 @@ __________________________________________________________________
 
 <code>flex-direction:</code> Define a direção do eixo principal.
 
+
 ### **Animações:**
+
 <code>animation:</code> Aplica uma animação a um elemento.
 
+
 ### **Keyframes (@keyframes pulseanimation):**
+
 <code>transform:</code> Define transformações em diferentes estágios da animação.
 
+
 ### **ID Específico (#t-nome__bt):**
+
 <code>user-select:</code> Define se o texto pode ser selecionado pelo usuário.
 
 <code>font-family:</code> Define a família de fontes do elemento.
@@ -97,7 +107,9 @@ __________________________________________________________________
 
 <code>font-weight:</code> Define o peso da fonte.
 
+
 ### **Background Container (.container-bg):**
+
 <code>position:</code> Define o método de posicionamento do elemento.
 
 <code>overflow:</code> Define o comportamento de overflow do elemento.
@@ -108,12 +120,16 @@ __________________________________________________________________
 
 <code>background-image:</code> Define a imagem de fundo.
 
+
 ### **Informações Gerais (.container-info e .a-info__column):**
+
 <code>font-weight:</code> Define o peso da fonte.
 
 <code>color:</code> Define a cor do texto.
 
+
 ### **Barra de Progresso (.b-nv-ex__progress e .b-nv-in__progress):**
+
 <code>position:</code> Define o método de posicionamento do elemento.
 
 <code>background-color:</code> Define a cor de fundo do elemento.
