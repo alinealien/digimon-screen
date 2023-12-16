@@ -1,4 +1,4 @@
-## Digimon Screen
+# Digimon Screen
 
 Neste super projeto, desenvolvemos o nosso Digimon Search. O objetivo é práticarmos conceitos da tríade frontend: o html, css e javascript.
 
@@ -8,7 +8,7 @@ Todo conteúdo apresentado é para fins educacionais.
 
 ___________________________________________________________________
 
-### Estrutura HTML Utilizada no Projeto
+## Estrutura HTML Utilizada no Projeto
 
 **Box-Model:**
 O Box Model é um conceito fundamental no design e layout de páginas web. Ele representa como os elementos HTML são renderizados, definindo a estrutura do bloco, que inclui o conteúdo, preenchimento, borda e margem. Ele é crucial para controlar o layout e o espaçamento dos elementos em uma página web. Ele permite que os desenvolvedores ajustem o tamanho e o espaçamento dos elementos de forma consistente, garantindo um design responsivo e coeso.
@@ -40,9 +40,9 @@ Que é onde fica os estilos para um elemento de cartão e estilos para o logotip
 
 __________________________________________________________________
 
-**Glossário de Seletores e Propriedades CSS:**
+## **Glossário de Seletores e Propriedades CSS:**
 
-**Universal Selector (*):**
+## **Universal Selector (*):**
 
 <code>margin:</code> Define a margem ao redor do elemento.
 
@@ -52,53 +52,53 @@ __________________________________________________________________
 
 <code>box-sizing:</code> Define o modelo de caixa, incluindo a borda no cálculo do tamanho.
 
-**Elementos Gerais:**
-        **position:** Define o método de posicionamento do elemento.
-        **max-width:** Define a largura máxima do elemento.
-        **width:** Define a largura do elemento.
-        **height:** Define a altura do elemento.
-        **margin-top:** Define a margem superior do elemento.
-        **padding:** Define o preenchimento dentro do elemento.
-        **border-radius:** Define o raio das bordas do elemento.
-        **background:** Define o plano de fundo do elemento com um gradiente linear.
-        **transform:** Aplica uma transformação 3D ao elemento.
+## **Elementos Gerais:**
+<code>position:</code> Define o método de posicionamento do elemento.
+<code>max-width:</code> Define a largura máxima do elemento.
+<code>width:</code> Define a largura do elemento.
+<code>height:</code> Define a altura do elemento.
+<code>margin-top:</code> Define a margem superior do elemento.
+<code>padding:</code> Define o preenchimento dentro do elemento.
+<code>border-radius:</code> Define o raio das bordas do elemento.
+<code>background:</code> Define o plano de fundo do elemento com um gradiente linear.
+<code>transform:</code> Aplica uma transformação 3D ao elemento.
 
-**Flexbox:**
-        **display:** Define o método de exibição do elemento como flexível.
-        **justify-content:** Alinha o conteúdo horizontalmente.
-        **align-items:** Alinha o conteúdo verticalmente.
-        **flex-direction:** Define a direção do eixo principal.
+## **Flexbox:**
+<code>display:</code> Define o método de exibição do elemento como flexível.
+<code>justify-content:</code> Alinha o conteúdo horizontalmente.
+<code>align-items:</code> Alinha o conteúdo verticalmente.
+<code>flex-direction:</code> Define a direção do eixo principal.
 
-**Animações:**
-        **animation:** Aplica uma animação a um elemento.
+## **Animações:**
+<code>animation:</code> Aplica uma animação a um elemento.
 
-**Keyframes (@keyframes pulseanimation):**
-        **transform:** Define transformações em diferentes estágios da animação.
+## **Keyframes (@keyframes pulseanimation):**
+<code>transform:</code> Define transformações em diferentes estágios da animação.
 
-**ID Específico (#t-nome__bt):**
-        **user-select:** Define se o texto pode ser selecionado pelo usuário.
-        **font-family:** Define a família de fontes do elemento.
-        **font-size:** Define o tamanho da fonte.
-        **color:** Define a cor do texto.
-        **font-weight:** Define o peso da fonte.
+## **ID Específico (#t-nome__bt):**
+<code>user-select:</code> Define se o texto pode ser selecionado pelo usuário.
+<code>font-family:</code> Define a família de fontes do elemento.
+<code>font-size:</code> Define o tamanho da fonte.
+<code>color:</code> Define a cor do texto.
+<code>font-weight:</code> Define o peso da fonte.
 
-**Background Container (.container-bg):**
-        **position:** Define o método de posicionamento do elemento.
-        **overflow:** Define o comportamento de overflow do elemento.
-        **background-size:** Define o tamanho da imagem de fundo.
-        **background-position:** Define a posição da imagem de fundo.
-        **background-image:** Define a imagem de fundo.
+## **Background Container (.container-bg):**
+<code>position:</code> Define o método de posicionamento do elemento.
+<code>overflow:</code> Define o comportamento de overflow do elemento.
+<code>background-size:</code> Define o tamanho da imagem de fundo.
+<code>background-position:</code> Define a posição da imagem de fundo.
+<code>background-image:</code> Define a imagem de fundo.
 
-**Informações Gerais (.container-info e .a-info__column):**
-        **font-weight:** Define o peso da fonte.
-        **color:** Define a cor do texto.
+## **Informações Gerais (.container-info e .a-info__column):**
+<code>font-weight:</code> Define o peso da fonte.
+<code>color:</code> Define a cor do texto.
 
-**Barra de Progresso (.b-nv-ex__progress e .b-nv-in__progress):**
-        **position:** Define o método de posicionamento do elemento.
-        **background-color:** Define a cor de fundo do elemento.
-        **height:** Define a altura do elemento.
-        **width:** Define a largura do elemento.
-        **border-radius:** Define o raio das bordas do elemento.
+## **Barra de Progresso (.b-nv-ex__progress e .b-nv-in__progress):**
+<code>position:</code> Define o método de posicionamento do elemento.
+<code>background-color:</code> Define a cor de fundo do elemento.
+<code>height:</code> Define a altura do elemento.
+<code>width:</code> Define a largura do elemento.
+<code>border-radius:</code> Define o raio das bordas do elemento.
 ____________________________________________________________________
 
 **Links Importantes:**
