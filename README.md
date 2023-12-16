@@ -143,6 +143,6 @@ ____________________________________________________________________
 
 **Links Importantes:**
 
-**Box-Model:** https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_box_model/Introduction_to_the_CSS_box_model
+**Box-Model:** [Sobre o Box-Model](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_box_model/Introduction_to_the_CSS_box_model)
 
-**BEM:** https://desenvolvimentoparaweb.com/css/bem/
+**BEM:** [Sobre o BEM](https://desenvolvimentoparaweb.com/css/bem/)
