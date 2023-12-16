@@ -38,7 +38,6 @@ Que é onde fica os estilos para um elemento de cartão e estilos para o logotip
 É o nosso estilo para o contêiner referente as colunas de informações dos digimons.
 
 
-__________________________________________________________________
 
 ## **Glossário de Seletores e Propriedades CSS:**
 
