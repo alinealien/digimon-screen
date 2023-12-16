@@ -2,7 +2,7 @@
 
 Projeto desenvolvido utilizando html, css e javascript. Todo conteúdo é para fins educacionais.
 
-![Modelo Projeto](https://drive.google.com/file/d/1oTC7A-VJbaiANPGqixEGb0b01kei-FEx/view?usp=sharing)
+[Imagem](https://i.imgur.com/sZstEdN.jpg)
 
 ______________________________________________________________________________________
 
