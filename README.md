@@ -10,11 +10,7 @@ ___________________________________________________________________
 
 ## Estrutura HTML Utilizada no Projeto
 
-**Box-Model:**
-O Box Model é um conceito fundamental no design e layout de páginas web. Ele representa como os elementos HTML são renderizados, definindo a estrutura do bloco, que inclui o conteúdo, preenchimento, borda e margem. Ele é crucial para controlar o layout e o espaçamento dos elementos em uma página web. Ele permite que os desenvolvedores ajustem o tamanho e o espaçamento dos elementos de forma consistente, garantindo um design responsivo e coeso.
-
-**Tags HTML:**
-O HTML desenvolvido define uma estrutura básica de página web com um cartão de apresentação de Digimon, incluindo imagem, nome e informações. Aqui o Box Model é implicitamente aplicado para controlar o layout e espaçamento dos elementos.
+![Imagem 2](https://i.imgur.com/IE0VKrC.jpg)
 ___________________________________________________________________
 
 ### Estrutura CSS
