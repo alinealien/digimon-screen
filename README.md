@@ -8,12 +8,13 @@ Todo conteúdo apresentado é para fins educacionais.
 
 ___________________________________________________________________
 
-## Estrutura HTML Utilizada no Projeto
+## Conceitos Praticados no Projeto
 
+No desenvolvimento do projeto utilizamos alguns conceitos fundamentais de html e css, como o box-model e na construção do html aplicamos elementos que ajudam na estruturação e organização do conteúdo em uma página web.
 ![Imagem 2](https://i.imgur.com/IE0VKrC.jpg)
 ___________________________________________________________________
 
-### Estrutura CSS
+### Estrutura dos arquivos CSS
 
 Criamos 4 arquivos css para a estilização do nosso projeto, sendo:
 
