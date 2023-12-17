@@ -15,10 +15,6 @@ No desenvolvimento do projeto utilizamos alguns conceitos fundamentais de html e
 ![Imagem 2](https://i.imgur.com/IE0VKrC.jpg)
 ___________________________________________________________________
 
-### Estrutura dos arquivos CSS
-
-
-____________________________________________________________________
 
 **Links Importantes:**
 
