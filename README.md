@@ -10,7 +10,7 @@ ___________________________________________________________________
 
 ## Conceitos Praticados no Projeto
 
-No desenvolvimento do projeto utilizamos alguns conceitos fundamentais de html e css, como o box-model e na construção do html aplicamos elementos que ajudam na estruturação e organização do conteúdo em uma página web.
+No desenvolvimento do projeto utilizamos alguns conceitos fundamentais de html e css, como o box-model e a aplicação de elementos html que ajudam na estruturação e organização do conteúdo em uma página web.
 ![Imagem 2](https://i.imgur.com/IE0VKrC.jpg)
 ___________________________________________________________________
 
