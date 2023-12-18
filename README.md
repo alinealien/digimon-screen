@@ -12,7 +12,7 @@ ___________________________________________________________________
 
 No desenvolvimento do projeto utilizamos alguns conceitos fundamentais de html e css, como o box-model e a aplicação de elementos html que ajudam na estruturação e organização do conteúdo em uma página web.
 
-![Imagem 2](https://imgur.com/Ci5HXPN.jpg)
+![Imagem 2](https://imgur.com/undefined.jpg)
 ___________________________________________________________________
 
 
