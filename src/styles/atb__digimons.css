@@ -12,12 +12,12 @@
 }
 
 .a-info__column{
-display: flex;
-align-items: center;
-margin: 0.3rem 0;
-justify-content: space-around;
-font-weight: 400;
-color: white;
+   display: flex;
+   align-items: center;
+   margin: 0.3rem 0;
+   justify-content: space-around;
+   font-weight: 400;
+   color: white;
 }
 
 .b-nv-ex__progress{
