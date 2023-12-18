@@ -19,7 +19,9 @@
    color: white;
 }
 
-.b-nv-ex__progress{
+/* BARRINHAS */
+
+.b-nv-ex__progressHp{
     position: relative;
     background-color:  #ffffff;
     height: 25px;
@@ -27,10 +29,44 @@
     border-radius: 35px;
 }
 
-.b-nv-in__progress-II{
+.b-nv-in__progress-hp{
     position: absolute;
-    background-color:  #fbf6f6;
+    background-color:  #d8d8d8;
+    height: 100%;
+    width: 0;
+    border-radius: 35px;
+}
+
+
+.b-nv-ex__progressAtk{
+    position: relative;
+    background-color:  #ffffff;
     height: 25px;
-    width: 35%;
+    width: 80%;
+    border-radius: 35px;
+}
+
+.b-nv-in__progress-atk{
+    position: absolute;
+    background-color:  #d8d8d8;
+    height: 25px;
+    width: auto;
+    border-radius: 35px;
+}
+
+
+.b-nv-ex__progressDef{
+    position: relative;
+    background-color:  #ffffff;
+    height: 25px;
+    width: 80%;
+    border-radius: 35px;
+}
+
+.b-nv-in__progress-def{
+    position: absolute;
+    background-color:  #d8d8d8;
+    height: 25px;
+    width: auto;
     border-radius: 35px;
 }

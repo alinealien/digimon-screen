@@ -34,6 +34,20 @@ async function filtroDigimons(digimonsList, digimonId){
     const imgDigimonElement = document.querySelector(".i-card__digimon img");
     imgDigimonElement.src = digimon.image;
 
+
+// MODIFICAR O HP, ATK E DEF
+
+const hpDigimonElement = document.querySelector(".b-nv-in__progress-hp");
+const atkDigimonElement = document.querySelector(".b-nv-in__progress-atk");
+const defDigimonElement = document.querySelector(".b-nv-in__progress-def");
+
+
+hpDigimonElement.style.width = digimon.HP + '%';
+atkDigimonElement.style.width = digimon.ATK + '%';
+defDigimonElement.style.width = digimon.DEF + '%';
+
+
+
     console.log(digimon);
 }
 
