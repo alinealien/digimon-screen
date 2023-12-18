@@ -44,7 +44,7 @@ async function main(){
     const digimons = await getDigimonsAPI();
 
     // Preciso chamar/filtrar o digimons escolhido:
-    const chooseDigimons = await filtroDigimons(digimons, 9);
+    const chooseDigimons = await filtroDigimons(digimons, 10);
 
 }
 
