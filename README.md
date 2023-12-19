@@ -20,20 +20,16 @@ ___________________________________________________________________
 
 Na imagem a baixo, podemos observar um contorno em alguns elementos da nossa página. Essa seleção antes do desenvovlimento do projeto, contribue imensamente para a construção e organização do nosso html.
 
-Vamos pensar que cada contorno são como caixas/containeres que iram abrigar nossos elementos. Desse modo, se observamos, precisaremos criar elementos como <code><div></code> ou <code><section></code> para guardar:
+Vamos pensar que cada contorno são como caixas/containeres que iram abrigar nossos elementos. Desse modo, se observamos, precisaremos criar elementos como ```<div>```e ```section``` para guardar:
 
 1. Todo o nosso conteúdo da página: <code>container</code>;
 
 2. O Background da nossa página: <code>container-bg</code>;
 
 3. Nosso card central: <code>card</code>;
-Seus sub-elementos internos
-3.1 - Logo Digimon: <code>i-card__logo</code>;
-3.2 - Imagem do Digimon: <code>i-card__digimon</code>;
-3.3 - Nome do Digimon:<code>t-nome__bt</code>;
-3.4 - Container das informações: <code>container-info</code>;
-3.5 - Colunas de HP, ATK, DEF: <code>a-info__column</code>;
-3.6 - Colunas Status HP, ATK, DEF [3x]: <code>b-nv-ex__progressHp</code>; e <code>b-nv-in__progress-hp</code>;
+
+E seus sub-elementos internos:
+3.1 - Logo Digimon: <code>i-card__logo</code>; || 3.2 - Imagem do Digimon: <code>i-card__digimon</code>; || 3.3 - Nome do Digimon:<code>t-nome__bt</code>; || 3.4 - Container das informações: <code>container-info</code>; || 3.5 - Colunas de HP, ATK, DEF: <code>a-info__column</code>; || 3.6 - Colunas Status HP, ATK, DEF [3x]: <code>b-nv-ex__progressHp</code>; e <code>b-nv-in__progress-hp</code>;
 
 ![Imagem](https://i.imgur.com/sZstEdN.jpg)  
 
