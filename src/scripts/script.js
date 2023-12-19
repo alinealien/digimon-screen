@@ -1,5 +1,8 @@
-// Para trabalhar com o JS nesse projeto, precisamos criar 3 funções, para:
-// 1. Chamar a API dos Digimons | 2. Um filtro para busca dos Digimons | 3. E uma função main;
+// Para trabalhar com o JS nesse projeto, precisamos criar 4 funções, para:
+// 1. Chamar a API dos Digimons 
+// 2. Um filtro para busca dos Digimons 
+// 3. Reenderizar 
+// 4. E uma função main
 
 
 // CHAMADA DA API:

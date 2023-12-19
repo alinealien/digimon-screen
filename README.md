@@ -1,10 +1,12 @@
 # Digimon Screen
 
-Neste projeto, iremos desenvolver uma página de Digimon Search. O objetivo é práticarmos conceitos da tríade frontend: o html, css e javascript.
+Neste projeto, iremos desenvolver uma página de Digimon Search. O objetivo é práticarmos conceitos da html e css. Além de realizarmos a chamada para a nossa API utilizando o JavaScript.
 
-**MODELO DA PÁGINA**
+[Digimon Search](https://alinealien.github.io/digimon-screen/)
 
-![Imagem](https://i.imgur.com/sZstEdN.jpg)  
+
+**IDE Utilizada:** Visual Studio Code.
+
 
 ___________________________________________________________________
 
@@ -13,6 +15,12 @@ ___________________________________________________________________
 No desenvolvimento do projeto utilizamos alguns conceitos fundamentais de html e css, como o box-model e a aplicação de elementos html que ajudam na estruturação e organização do conteúdo em uma página web.
 
 ![Imagem 2](https://imgur.com/C2Pkh8X.jpg)
+___________________________________________________________________
+
+**MODELO DA PÁGINA**
+
+![Imagem](https://i.imgur.com/sZstEdN.jpg)  
+
 ___________________________________________________________________
 
 
