@@ -8,7 +8,6 @@ Neste projeto, iremos desenvolver uma página de Busca de Digimons. O objetivo �
 **IDE Utilizada:** Visual Studio Code.
 
 
-
 ## Conceitos Praticados no Projeto
 
 No desenvolvimento do projeto utilizamos alguns conceitos fundamentais de html e css, como o box-model e a aplicação de elementos html que ajudam na estruturação e organização do conteúdo em uma página web.
@@ -20,6 +19,8 @@ ___________________________________________________________________
 
 Na imagem a baixo, podemos observar um contorno em alguns elementos da nossa página. Essa seleção antes do desenvovlimento do projeto, contribue imensamente para a construção e organização do nosso html.
 
+![Imagem](https://i.imgur.com/sZstEdN.jpg)  
+
 Vamos pensar que cada contorno são como caixas/containeres que iram abrigar nossos elementos. Desse modo, se observamos, precisaremos criar elementos como ```<div>``` e ```section``` para guardar:
 
 1. Todo o nosso conteúdo da página: <code>container</code>;
@@ -27,17 +28,17 @@ Vamos pensar que cada contorno são como caixas/containeres que iram abrigar nos
 2. O Background da nossa página: <code>container-bg</code>;
 
 3. Nosso card central: <code>card</code>;
-   1. - Logo Digimon: <code>i-card__logo</code>; 
-   2. - Imagem do Digimon: <code>i-card__digimon</code>; 
-   3. - Nome do Digimon:<code>t-nome__bt</code>; 
-   4. - Container das informações: <code>container-info</code>; 
-   5. - Colunas de HP, ATK, DEF: <code>a-info__column</code>; 
-   6. - Colunas Status HP, ATK, DEF [3x]: <code>b-nv-ex__progressHp</code>; e <code>b-nv-in__progress-hp</code>;
+   1. Logo Digimon: <code>i-card__logo</code>; 
+   2. Imagem do Digimon: <code>i-card__digimon</code>; 
+   3. Nome do Digimon:<code>t-nome__bt</code>; 
+   4. Container das informações: <code>container-info</code>; 
+   5. Colunas de HP, ATK, DEF: <code>a-info__column</code>; 
+   6. Colunas Status HP, ATK, DEF [3x]: <code>b-nv-ex__progressHp</code>; e <code>b-nv-in__progress-hp</code>;
 
-![Imagem](https://i.imgur.com/sZstEdN.jpg)  
+
+
 
 ___________________________________________________________________
-
 
 **Links Importantes:**
 
