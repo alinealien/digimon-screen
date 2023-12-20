@@ -17,8 +17,6 @@
     align-items: center;
 }
 
-
-/* Por que que o espaçamento so se ajsutou depois que separei o card da img?*/
 .i-card__digimon{
    display: flex;
    width: 100%;

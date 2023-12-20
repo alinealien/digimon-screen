@@ -25,43 +25,49 @@ return await response.json();
 async function filtroDigimons(digimonsList, digimonId){
 
 //Armazenamos em 'digimon' o resultado de busca da filtragem:
-    const digimon = await digimonsList.find((monster) => monster.id === digimonId);
+const digimon = await digimonsList.find((monster) => monster.id === digimonId);
+
+return digimon;
+}
+
+
+async function renderDigimons(digimon){
 
 // Manipulei o DOM aqui para exibir as informações de nome e imagem dos Digimons:
 //É importante sempre observar a API e como está definidio suas propriedades.
-    const nomeDigimonElement = document.getElementById("t-nome__bt");
-    nomeDigimonElement.textContent = digimon.name;
+const nomeDigimonElement = document.getElementById("t-nome__bt");
+nomeDigimonElement.textContent = digimon.name;
 
 // Da mesma forma que busquei o nome do digimon, estou buscando a imagem, usando o querySelector.
 // NÃO ESQUECER DE COLOCAR O (.) ao atribuir o nome da classe da imagem;
-    const imgDigimonElement = document.querySelector(".i-card__digimon img");
-    imgDigimonElement.src = digimon.image;
+const imgDigimonElement = document.querySelector(".i-card__digimon img");
+imgDigimonElement.src = digimon.image;
 
 
 // MODIFICAR O HP, ATK E DEF
-
 const hpDigimonElement = document.querySelector(".b-nv-in__progress-hp");
 const atkDigimonElement = document.querySelector(".b-nv-in__progress-atk");
 const defDigimonElement = document.querySelector(".b-nv-in__progress-def");
-
 
 hpDigimonElement.style.width = digimon.HP + '%';
 atkDigimonElement.style.width = digimon.ATK + '%';
 defDigimonElement.style.width = digimon.DEF + '%';
 
-
-
-    console.log(digimon);
 }
 
-// FUNÇÃO MAIN:
+
+
+
+// FUNÇÃO PRINCIPAL MAIN:
 async function main(){
 
     // Preciso chamar a API dos digimons primeiro:
     const digimons = await getDigimonsAPI();
 
     // Preciso chamar/filtrar o digimons escolhido:
-    const chooseDigimons = await filtroDigimons(digimons, 10);
+    const chooseDigimons = await filtroDigimons(digimons, 9);
+
+    await renderDigimons(chooseDigimons);
 
 }
 
