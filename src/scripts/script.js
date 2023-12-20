@@ -28,6 +28,7 @@ async function filtroDigimons(digimonsList, digimonId){
 const digimon = await digimonsList.find((monster) => monster.id === digimonId);
 
 return digimon;
+
 }
 
 
